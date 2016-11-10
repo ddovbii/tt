@@ -1,0 +1,8 @@
+06:29:57,307 INFO Broker:56 - Broker got message from Queue=0, messageId=MSG_527ccb3549212
+06:29:57,309 INFO Broker:69 - Broker sends message to Queue=1, messageId=MSG_527ccb3549212
+06:29:57,309 INFO Broker:56 - Broker got message from Queue=0, messageId=MSG_527ccb3111111
+06:29:57,310 INFO Broker:69 - Broker sends message to Queue=1, messageId=MSG_527ccb3111111
+06:29:57,317 INFO Broker:56 - Broker got message from Queue=1, messageId=MSG_527ccb3549212
+06:29:57,317 INFO Broker:56 - Broker got message from Queue=1, messageId=MSG_527ccb3111111
+06:29:57,317 INFO Broker:69 - Broker sends message to Queue=0, messageid=MSG_527ccb3549212
+06:30:01,317 INFO Broker:69 - Broker sends message to Queue=0, messageid=MSG_527ccb3111111
